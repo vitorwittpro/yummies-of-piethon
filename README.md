@@ -2,55 +2,55 @@
 
 Implementing some python libraries, listed below
 
-## Coroutines and Tasks
+### Coroutines and Tasks
 
 > https://docs.python.org/3/library/asyncio-task.html#
 
-## Schedule
+### Schedule
 
 > https://schedule.readthedocs.io/en/stable/
 
-## asyncio
+### asyncio
 
 > https://docs.python.org/dev/library/asyncio.html
 
-## TAIPY
+### TAIPY
 
 > https://docs.taipy.io/en/latest/
 
-## PyPDF2
+### PyPDF2
 
 > https://pypdf.readthedocs.io/en/stable/
 
-## Arrow
+### Arrow
 
 > https://arrow.readthedocs.io/en/latest/
 
-## TQDM
+### TQDM
 
 > https://tqdm.github.io/
 
-## Geopy
+### Geopy
 
 > https://geopy.readthedocs.io/en/latest/#
 
-## PyAutoGUI
+### PyAutoGUI
 
 > https://pyautogui.readthedocs.io/en/latest/
 
-## Colorama
+### Colorama
 
 > https://pypi.org/project/colorama/
 
-## Whoosh
+### Whoosh
 
 > https://whoosh.readthedocs.io/en/latest/
 
-## MoviePy
+### MoviePy
 
 > https://zulko.github.io/moviepy/
 
-## Pyjokes.es
+### Pyjokes.es
 
 > https://pyjok.es/install/
 
